@@ -1,0 +1,1 @@
+mul is the product of two numbers
